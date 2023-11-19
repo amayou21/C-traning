@@ -4,7 +4,7 @@ namespace DEMO
     {
         public static void SayHello()
         {
-            Console.WriteLine("hello other namespace");
+            Console.WriteLine("hello new namespace");
         }
     }
 }
